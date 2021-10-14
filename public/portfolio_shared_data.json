@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "Ntshembo  Hlongwane",
+    "titles": ["Front-end Web-Developer", "Back-end Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Ntshembo-Hlongwane1",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/needyboii.scott/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "/images/myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Postgresql",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "60"
+      },
+      {
+        "name": "Node",
+        "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

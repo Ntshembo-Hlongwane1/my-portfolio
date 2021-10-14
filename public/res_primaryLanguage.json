@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Ntshembo Hlongwane, Fullstack JavaScript Developer with 3years of experience in the field. I have a passion for backend development and would love to grow more in that aspect",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Learning Management System",
+      "startDate": "2020",
+      "description": "LMS System for organization/company i.e Boti. My role on the project was Backend Development",
+      "images": ["images/LMS1.png", "images/LMS2.png"],
+      "url": "https://www.boti.co.za/lms/",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        }
+      ]
+    },
+    {
+      "title": "WIMS",
+      "startDate": "2020",
+      "description": "WIMS (Women In Move Solution) Informational site. My role was frontend development",
+      "images": ["images/WIMS2.png", "images/WIMS1.png"],
+      "url": "https://wims.io/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Sahara Boutique",
+      "startDate": "2020",
+      "description": "Sahara Boutique online store. My role was Frontend development",
+      "images": ["images/sahara1.png", "images/sahara2.png"],
+      "url": "http://saharaboutiquesa.co.za/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "School Of IT",
+      "title": "Fullstack Development Educator",
+      "years": "08/2021 - present",
+      "mainTech": ["MERN STACK", "DJANGO"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "React",
+        "Node",
+        "Postgresql",
+        "Django",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Tobb Technologies",
+      "title": "Front-End Developer",
+      "years": "01/2020 - 06/2021",
+      "mainTech": ["REACT"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "React",
+        "Node",
+        "Postgresql",
+        "MongoDB",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Fiverr (Level1 - Freelancer)",
+      "title": "Fullstack Develeoper",
+      "years": "03/2018 - present",
+      "mainTech": ["REACT", "NODE"],
+      "technologies": ["React", "Node", "Postgresql", "MongoDB", "JavaScript"]
+    }
+  ]
+}
